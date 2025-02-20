@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 # Sou um desenvolvedor em transição para a área de Desenvolvimento Web, com uma formação sólida em tecnologia e uma vasta experiência em suporte técnico, atendimento ao cliente e treinamento. Atualmente, estou cursando o curso de Desenvolvedor Full Stack no Senac e buscando minha primeira oportunidade como Desenvolvedor Web.
-
-Tenho conhecimentos em Python, HTML, CSS, design gráfico e Help Desk, e estou empolgado para aplicar essas habilidades no desenvolvimento de soluções web criativas e eficientes. Sou apaixonado por aprender e explorar novas tecnologias, sempre com foco em me adaptar e crescer profissionalmente.
-
-No meu GitHub, você encontrará projetos que refletem minha jornada de aprendizado, além de soluções práticas e colaborativas.
+# Tenho conhecimentos em Python, HTML, CSS, design gráfico e Help Desk, e estou empolgado para aplicar essas habilidades no desenvolvimento de soluções web criativas e eficientes. Sou apaixonado por aprender e explorar novas tecnologias, sempre com foco em me adaptar e crescer profissionalmente.
+# No meu GitHub, você encontrará projetos que refletem minha jornada de aprendizado, além de soluções práticas e colaborativas.
 
 <!--
 **YusukyOficial/YusukyOficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
