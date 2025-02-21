@@ -1,8 +1,6 @@
 ## Olá eu sou o Matheus, criador de conteúdo de programação e tecnologia!
 
-# Sou um desenvolvedor em transição para a área de Desenvolvimento Web, com uma formação sólida em tecnologia e uma vasta experiência em suporte técnico, atendimento ao cliente e treinamento. Atualmente, estou cursando o curso de Desenvolvedor Full Stack no Senac e buscando minha primeira oportunidade como Desenvolvedor Web.
-Tenho conhecimentos em Python, HTML, CSS, design gráfico e Help Desk, e estou empolgado para aplicar essas habilidades no desenvolvimento de soluções web criativas e eficientes. Sou apaixonado por aprender e explorar novas tecnologias, sempre com foco em me adaptar e crescer profissionalmente.
-No meu GitHub, você encontrará projetos que refletem minha jornada de aprendizado, além de soluções práticas e colaborativas.
+# Sou um desenvolvedor em transição para a área de Desenvolvimento Web, com uma formação sólida em tecnologia e uma vasta experiência em suporte técnico, atendimento ao cliente e treinamento. Atualmente, estou cursando o curso de Desenvolvedor Full Stack no Senac e buscando minha primeira oportunidade como Desenvolvedor Web.Tenho conhecimentos em Python, HTML, CSS, design gráfico e Help Desk, e estou empolgado para aplicar essas habilidades no desenvolvimento de soluções web criativas e eficientes. Sou apaixonado por aprender e explorar novas tecnologias, sempre com foco em me adaptar e crescer profissionalmente. No meu GitHub, você encontrará projetos que refletem minha jornada de aprendizado, além de soluções práticas e colaborativas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="YusukyDev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
