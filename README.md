@@ -40,7 +40,6 @@ Desenvolvo assets para:
 ## 🚀 **NeuroZen Code**
 Minha empresa focada em:
 - Soluções tecnológicas criativas
-- Projetos open-source
 - Inovação digital
 
 Vamos conectar e criar algo épico! 👨💻⚡
