@@ -1,9 +1,50 @@
-## Olá eu sou o Matheus!
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou Matheus Gonçalves
+### **Desenvolvedor FullStack | Minecraft Modder | Fundador da [NeuroZen Code]**
 
- Sou apaixonado por tecnologia, programação e design, sempre buscando novas formas de criar e inovar. Atualmente, estou cursando desenvolvimento full stack, aprofundando meus conhecimentos em front-end e back-end para construir soluções completas e eficientes.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width435&lines=Transformando+ideias+em+realidade+digital" alt="Header Animation">
+</div>
 
- Tenho experiência básica em design, mas uma grande vontade de aprender e evoluir ainda mais nessa área. Meu objetivo é unir minhas habilidades para desenvolver produtos e experiências digitais que sejam funcionais, intuitivos e visualmente impactantes. Estou sempre aberto a novos desafios e oportunidades para crescer como profissional.
+---
 
+## 🛠 **Stack Principal**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+
+---
+
+## 💻 **O Que Eu Faço**
+
+### 🌐 **Desenvolvimento Web & Mobile**
+Construo aplicações completas com:
+- Front-end responsivo (React, HTML/CSS)
+- Back-end eficiente (Node.js, Python)
+- Bancos de dados otimizados
+
+### ⛏ **Mods para Minecraft**
+Crio mods personalizados com:
+- Java + Forge/Fabric
+- Modelos 3D customizados (Blockbench)
+- Mecânicas inovadoras de gameplay
+
+### 🎨 **Modelagem 3D**
+Desenvolvo assets para:
+- Jogos e mods
+- Protótipos visuais
+- Projetos criativos
+
+### 🚀 **NeuroZen Code**
+Minha empresa focada em:
+- Soluções tecnológicas criativas
+- Projetos open-source
+- Inovação digital
+
+Vamos conectar e criar algo épico! 👨💻⚡
+<!--
 <div style="display: inline_block"><br>
   <img align="center" alt="YusukyDev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="YusukyDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -11,7 +52,7 @@
   <img align="center" alt="YusukyDev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="YusukyDev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+  -->
  ##
  
 <div> 
