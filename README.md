@@ -2,7 +2,7 @@
 ### **Desenvolvedor FullStack | Minecraft Modder | Fundador da [NeuroZen Code]**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=5D3FD3&width=500&lines=Transformando+ideias+em+realidade+digital;Desenvolvendo+soluções+que+impressionam;Código+%7C+Criatividade+%7C+Inovação" alt="Animação de Texto">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=435&lines=Transformando+ideias+em+realidade+digital" alt="Header Animation">
 </div>
 
 ---
