@@ -2,7 +2,7 @@
 ### **Desenvolvedor FullStack | Minecraft Modder | Fundador da [NeuroZen Code]**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=435&lines=Transformando+ideias+em+realidade+digital" alt="Header Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=735&lines=Transformando+ideias+em+realidade+digital" alt="Header Animation">
 </div>
 
 ---
@@ -19,25 +19,25 @@
 
 ## 💻 **O Que Eu Faço**
 
-### 🌐 **Desenvolvimento Web & Mobile**
+## 🌐 **Desenvolvimento Web & Mobile**
 Construo aplicações completas com:
 - Front-end responsivo (React, HTML/CSS)
 - Back-end eficiente (Node.js, Python)
 - Bancos de dados otimizados
 
-### ⛏ **Mods para Minecraft**
+## ⛏ **Mods para Minecraft**
 Crio mods personalizados com:
 - Java + Forge/Fabric
 - Modelos 3D customizados (Blockbench)
 - Mecânicas inovadoras de gameplay
 
-### 🎨 **Modelagem 3D**
+## 🎨 **Modelagem 3D**
 Desenvolvo assets para:
 - Jogos e mods
 - Protótipos visuais
 - Projetos criativos
 
-### 🚀 **NeuroZen Code**
+## 🚀 **NeuroZen Code**
 Minha empresa focada em:
 - Soluções tecnológicas criativas
 - Projetos open-source
