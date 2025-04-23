@@ -1,119 +1,73 @@
-<div align="center">
-  <!-- Primeiro texto: Boas-vindas -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=524&lines=Welcome+to+my+profile!+%E2%9C%A8" alt="Boas-vindas">
-  </a>
-  
-  <!-- Segundo texto: Nova frase -->
-  <br> <!-- Quebra de linha entre os textos -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00D1FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+realidade+digital+%F0%9F%9A%80" alt="Transformando ideias">
-  </a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Gonçalves;Full+Stack+Developer+Study+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YusukyOficial&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Yusuky github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusukyOficial&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
----
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YusukyOficial&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou Matheus Gonçalves
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YusukyOficial&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-### **Técnico em Informática | Desenvolvedor FullStack | Minecraft Modder | CEO da NeuroZen Code**
-
----
-
-### 🛠 **Stack Principal**
-
-### **🖥️ Programação** 
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-##
-
-### **🗃️ Banco de Dados**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-##
-
-### **🎨 Design & 3D**
-
-![Blockbench](https://img.shields.io/badge/-Blockbench-2596BE?style=flat&logo=blockbench&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
-![MCreator](https://img.shields.io/badge/-MCreator-FF7D00?style=flat&logo=minecraft&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-##
-
-### 🎬 **Edição de Vídeo** 
-
-![Premiere](https://img.shields.io/badge/-Premiere-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
-
----
-
-### 🚀 Tecnologias em Aprendizado
-- ⚡ **JavaScript** | **HTML** | **CSS**  
-- 📱 **React Native**  
-- 🌐 **Node.js**  
-- 🗄️ **MySQL**  
-- 📊 **Scrum** (*utilizando* **Jira**)  
-
----
-
-### 💻 **O Que Eu Faço**
-
-## 🌐 **Desenvolvimento Web & Mobile**
-Construo aplicações completas com:
-- Front-end responsivo (React, HTML/CSS)
-- Back-end eficiente (Node.js, Python)
-- Bancos de dados otimizados
-
-## ⛏ **Mods para Minecraft**
-Crio mods personalizados com:
-- Java + Forge/Fabric
-- Modelos 3D customizados (Blockbench)
-- Mecânicas inovadoras de gameplay
-
-## 🎨 **Modelagem 3D**
-Desenvolvo assets para:
-- Jogos e mods
-- Protótipos visuais
-- Projetos criativos
-
-## 🚀 **NeuroZen Code**
-Minha empresa focada em:
-- Soluções tecnológicas criativas
-- Inovação digital
-
-Vamos conectar e criar algo épico! 👨💻⚡
-
- ##
- 
-<div> 
-  <a href="https://www.youtube.com/c/HazzardOvertake" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<div align="center">  
+<a href="https://www.youtube.com/@NeuroZenCode" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/matheusgn_official" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/2Tm7w73jry" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:yusukyryoshi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-goncalves-oficial" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheus-goncalves-oficial" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  
+     badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
+ 
+### Main skills:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+### Tools:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Blender](https://img.shields.io/badge/-blender-0D1117?style=for-the-badge&logo=blender&labelColor=0D1117)&nbsp;
+![Blockbench](https://img.shields.io/badge/-blockbench-0D1117?style=for-the-badge&logo=blockbench&labelColor=0D1117)&nbsp;
+![MCreator](https://img.shields.io/badge/-mcreator-0D1117?style=for-the-badge&logo=mcreator&labelColor=0D1117)&nbsp;
+
+ 
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Illustrator](https://img.shields.io/badge/-illustrator-0D1117?style=for-the-badge&logo=illustrator&labelColor=0D1117)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Pphotoshop-0D1117?style=for-the-badge&logo=photoshop&labelColor=0D1117)&nbsp;
+![Premiere](https://img.shields.io/badge/-Premiere-0D1117?style=for-the-badge&logo=premiere&labelColor=0D1117)&nbsp;
+![After Effects](https://img.shields.io/badge/-After_Effects-0D1117?style=for-the-badge&logo=adobeaftereffects&labelColor=0D1117)&nbsp;
+
+
   
-</div>
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=javas&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
-#
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{YusukyOficial}/count.svg" /></p> 
+<br></div>
 
-![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-#
-
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YusukyOficial&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&border_radius=3&border_color=7aa2f7&icon_color=bb9af7&theme=tokyonight" alt="GitHub stats">
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YusukyOficial&hide_title=false&layout=compact&langs_count=6&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&border_radius=3&border_color=7aa2f7&theme=tokyonight" alt="Most Used Languages">
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <!--
 **YusukyOficial/YusukyOficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
