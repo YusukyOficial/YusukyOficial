@@ -46,7 +46,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-illustrator-0D1117?style=for-the-badge&logo=illustrator&labelColor=0D1117)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Pphotoshop-0D1117?style=for-the-badge&logo=photoshop&labelColor=0D1117)&nbsp;
+![Photoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=photoshop&labelColor=0D1117)&nbsp;
 ![Premiere](https://img.shields.io/badge/-Premiere-0D1117?style=for-the-badge&logo=premiere&labelColor=0D1117)&nbsp;
 ![After Effects](https://img.shields.io/badge/-After_Effects-0D1117?style=for-the-badge&logo=adobeaftereffects&labelColor=0D1117)&nbsp;
 
